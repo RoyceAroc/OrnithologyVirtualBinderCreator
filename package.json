@@ -1,0 +1,32 @@
+{
+  "name": "OrnithologyVirtualBinderCreator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "node-fetch": "^2.6.6",
+    "node-html-parser": "^5.2.0",
+    "pdfkit": "^0.13.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoyceAroc/OrnithologyVirtualBinderCreator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoyceAroc/OrnithologyVirtualBinderCreator/issues"
+  },
+  "homepage": "https://github.com/RoyceAroc/OrnithologyVirtualBinderCreator#readme"
+}
